@@ -1,0 +1,13 @@
+.footer {
+  background-image: url("/assets/border.png");
+  background-repeat: repeat-x;
+  background-position: center top;
+  height: 50px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
